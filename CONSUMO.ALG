@@ -11,7 +11,7 @@ Inicio
 
       escreva("Distancia percorrida: ")
       leia (distancia)
-      escreva ("Combustível gasto ")
+      escreva ("Combustivel gasto ")
       leia (combustivel)
       
       consumo <- distancia / combustivel
